@@ -1,4 +1,4 @@
-Some open side projects I'm working on:
+Some public side projects I'm working on:
 
 - [Grocery Suggestion Service](https://github.com/atalere-audio/klang) - A self-hosted Flask project that builds and emails weekly grocery suggestions based on weekly web-scraped prices, nutrition models, user preferences and more.
 - [Online Store](https://github.com/lukasmwerk/yunque) - An exploration into scaling ecommerce backends, using a microservice architecture, written in Go and uses some industry-common technologies.
