@@ -8,11 +8,11 @@ Yunque is an expansion on some old ecommerce software I worked on, if I could st
 bookvocab is a program heavily integrating modelling techniques and parsing to get me vocab lists for books in spanish.
 
 My main toolbox/stack:
-C/C++ - all of my large codebase, big app big performance work
-Python - data science, engineering and machine learning
-Go - my go-to for distributed and little tools
-Typescript/JS/HTML/CSS/SCSS - anything web, react and next
-Java - organizational and enterprise code, my introduction to programming
+C/C++ - all of my large codebase, big app big performance work; 
+Python - data science, engineering and machine learning; 
+Go - my go-to for distributed and little tools; 
+Typescript/JS/HTML/CSS/SCSS - anything web, react and next; 
+Java - organizational and enterprise code, my introduction to programming; 
 C#, Scala - would like to learn
 
 Qt, React, Flask, Spring; IP, API and data protocols; Cassandra, PostgreSQL, Redis, MongoDB, Flink, Kafka; Docker, Kubernetes (k3s), Openshift, Salesforce; Atlassian, Visual Studio, Jetbrains/Intellij, Prometheus/Graphana, Github/Gitlab including CI/CD, Doxygen; Pytorch, Cuda and all that good stuff.
